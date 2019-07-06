@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>22</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>slideshow</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>basic,stack_vertical</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>500</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>D:/Ant Training/wowslider-setup/WOW Slider/templates/backgnd/easy/</ImageTemplate>
+            <ImageTemplateName>Easy</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>D:/Ant Training/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>D:/Ant Training</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>2</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#404449</TemplateColor>
+            <TemplateFont>Oswald</TemplateFont>
+            <TemplateName>easy</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>D:/Ant Training/Assignment/Image/adam-kool-11868-unsplash.jpg</url>
+                <title>Perfect View of Mountain</title>
+                <filesize>7335520</filesize>
+            </Image>
+            <Image>
+                <url>D:/Ant Training/Assignment/Image/alex-siale-95113-unsplash.jpg</url>
+                <title>What a perfect view of hill!</title>
+                <filesize>4841233</filesize>
+            </Image>
+            <Image>
+                <url>D:/Ant Training/Assignment/Image/andy-kelly-402111-unsplash.jpg</url>
+                <title>Tenhnology Now Day</title>
+                <filesize>3536396</filesize>
+            </Image>
+            <Image>
+                <url>D:/Ant Training/Assignment/Image/con-karampelas-1157539-unsplash.jpg</url>
+                <title>San Lee hero of marvel</title>
+                <filesize>2839627</filesize>
+            </Image>
+            <Image>
+                <url>D:/Ant Training/Assignment/Image/photo-1517649763962-0c623066013b.jpg</url>
+                <title>Sports</title>
+                <filesize>121807</filesize>
+            </Image>
+            <Image>
+                <url>D:/Ant Training/Assignment/Image/raj-eiamworakul-603747-unsplash.jpg</url>
+                <title>SpiderMan Super hero</title>
+                <filesize>4701975</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
